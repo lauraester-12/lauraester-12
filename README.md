@@ -1,10 +1,10 @@
 # Laura Ester
 
-### Estudante de Tecnologia | Desenvolvimento e Programação
+### Estudante de Técnico em Desenvolvimento de Sistemas
 Sou estudante do Ensino Médio em uma instituição de formação profissionalizante, com interesse na área de tecnologia e desenvolvimento de software.
 Atualmente, estou construindo minha base em programação, com foco em lógica computacional, desenvolvimento de algoritmos e linguagem Python. Tenho buscado aprimorar minhas habilidades técnicas, desenvolver o pensamento lógico e ampliar meus conhecimentos por meio de estudos e projetos práticos.
 Acredito na importância do aprendizado contínuo e vejo cada novo desafio como uma oportunidade de evolução pessoal e profissional.
-Atualmente, estudo Python, lógica de programação, estruturas condicionais, estruturas de repetição, manipulação de listas e desenvolvimento de algoritmos.
+Atualmente, estudo Python, lógica de programação, estruturas condicionais, estruturas de repetição e desenvolvimento de algoritmos.
 Busco expandir meus conhecimentos na área de tecnologia, adquirir experiência prática e desenvolver projetos que contribuam para minha formação acadêmica e profissional.
 E-mail: lauraesterbatista@gmail.com
 
